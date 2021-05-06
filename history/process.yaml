@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSM-MFD37-03-DOSTAD000-recovered_inst-dosta_abcdjm_ctdbp_instrument_recovered
 data_stream: CE01ISSM-MFD37-03-DOSTAD000-recovered_inst-dosta_abcdjm_ctdbp_instrument_recovered
 end_date: '2020-05-30T00:31:10.000Z'
-last_updated: '2021-05-05T03:43:20.457193Z'
+last_updated: '2021-05-06T14:24:25.201196'
 start_date: '2014-04-17T20:45:00.000Z'
-status: pending
+status: success
